@@ -1,0 +1,2758 @@
+{
+  "users": [
+    {
+      "id": 1757145611953,
+      "email": "ramsaiavinash13@gmail.com",
+      "password": "ramsai@123K",
+      "tenants": [
+        {
+          "id": 1757296515351,
+          "tenantId": "https://rambo.sharepoint.com"
+        }
+      ],
+      "client_credentials": [
+        {
+          "id": 1757147726002,
+          "clientId": "1234",
+          "clientSecret": "1234"
+        },
+        {
+          "id": 1757148156129,
+          "clientId": "1234",
+          "clientSecret": "123"
+        },
+        {
+          "id": 1757148459800,
+          "clientId": "1234",
+          "clientSecret": "1234"
+        },
+        {
+          "id": 1757148913579,
+          "clientId": "1234",
+          "clientSecret": "1234"
+        },
+        {
+          "id": 1757150882780,
+          "clientId": "1234",
+          "clientSecret": "1234"
+        },
+        {
+          "id": 1757151438561,
+          "clientId": "1234",
+          "clientSecret": "1234"
+        },
+        {
+          "id": 1757152493099,
+          "clientId": "1234",
+          "clientSecret": "1234"
+        },
+        {
+          "id": 1757153184825,
+          "clientId": "123",
+          "clientSecret": "123"
+        },
+        {
+          "id": 1757154029481,
+          "clientId": "123",
+          "clientSecret": "133"
+        },
+        {
+          "id": 1757155159918,
+          "clientId": "1234",
+          "clientSecret": "1234"
+        },
+        {
+          "id": 1757155928064,
+          "clientId": "1234",
+          "clientSecret": "1234"
+        },
+        {
+          "id": 1757156741512,
+          "clientId": "12346",
+          "clientSecret": "1234"
+        },
+        {
+          "id": 1757156949243,
+          "clientId": "1234",
+          "clientSecret": "e"
+        },
+        {
+          "id": 1757157195902,
+          "clientId": "1234",
+          "clientSecret": "34"
+        },
+        {
+          "id": 1757157447608,
+          "clientId": "1",
+          "clientSecret": "1"
+        },
+        {
+          "id": 1757158330273,
+          "clientId": "123",
+          "clientSecret": "0"
+        },
+        {
+          "id": 1757158826286,
+          "clientId": "1234",
+          "clientSecret": "789"
+        },
+        {
+          "id": 1757160048169,
+          "clientId": "123",
+          "clientSecret": "455"
+        },
+        {
+          "id": 1757161790014,
+          "clientId": "11",
+          "clientSecret": "22"
+        },
+        {
+          "id": 1757161876489,
+          "clientId": "123",
+          "clientSecret": "122"
+        },
+        {
+          "id": 1757161960192,
+          "clientId": "123",
+          "clientSecret": "h"
+        },
+        {
+          "id": 1757162517034,
+          "clientId": "1234",
+          "clientSecret": "123II"
+        },
+        {
+          "id": 1757164515139,
+          "clientId": "1234",
+          "clientSecret": "123G"
+        },
+        {
+          "id": 1757294389662,
+          "clientId": "1",
+          "clientSecret": "2"
+        },
+        {
+          "id": 1757294502939,
+          "clientId": "123567",
+          "clientSecret": "g465"
+        },
+        {
+          "id": 1757295392362,
+          "clientId": "yy",
+          "clientSecret": "jj"
+        },
+        {
+          "id": 1757295920308,
+          "clientId": "12334",
+          "clientSecret": "7765"
+        }
+      ],
+      "feedback": [
+        {
+          "id": 1757148005314,
+          "feedback": "Nice"
+        }
+      ],
+      "on_prem_credentials": [],
+      "assessments": [
+        {
+          "id": 1757162518744,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 06/09/2025, 18:11:58",
+          "status": "Initiated",
+          "date": "2025-09-06"
+        },
+        {
+          "id": 1757162526011,
+          "type": "Identity online (Entra)",
+          "reportName": "Users Report",
+          "status": "Selected",
+          "date": "2025-09-06"
+        },
+        {
+          "id": 1757162526024,
+          "type": "Identity online (Entra)",
+          "reportName": "Security Groups Report",
+          "status": "Selected",
+          "date": "2025-09-06"
+        },
+        {
+          "id": 1757164516864,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 06/09/2025, 18:45:16",
+          "status": "Initiated",
+          "date": "2025-09-06"
+        },
+        {
+          "id": 1757294392928,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 06:49:52",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757294503186,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 06:51:43",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757294530496,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 06:52:10",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757294959336,
+          "type": "SharePoint",
+          "reportName": "Site collections Ownership Report",
+          "status": "In Progress",
+          "date": "08/09/2025"
+        },
+        {
+          "id": 1757295396838,
+          "type": "Cloud file shares",
+          "reportName": "Cloud file shares Assessment - 08/09/2025, 07:06:36",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757295400098,
+          "type": "Cloud file shares",
+          "reportName": "File Share Permissions Report",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757295922630,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 08/09/2025, 07:15:22",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757295970920,
+          "type": "Identity online (Entra)",
+          "reportName": "M365 Groups Report",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757295970929,
+          "type": "Identity online (Entra)",
+          "reportName": "Devices Report",
+          "status": "Selected",
+          "date": "2025-09-08"
+        }
+      ]
+    },
+    {
+      "id": 1757153595884,
+      "email": "avi@gmail.com",
+      "password": "1234",
+      "tenants": [
+        {
+          "id": 1757153629078,
+          "tenantId": "https://avi.sharepoint.com"
+        }
+      ],
+      "client_credentials": [
+        {
+          "id": 1757153635559,
+          "clientId": "22",
+          "clientSecret": "22"
+        }
+      ],
+      "feedback": [],
+      "on_prem_credentials": [],
+      "assessments": []
+    },
+    {
+      "id": 1757158887210,
+      "email": "ram@gmail.com",
+      "password": "1234",
+      "tenants": [],
+      "client_credentials": [],
+      "feedback": [],
+      "on_prem_credentials": [],
+      "assessments": []
+    },
+    {
+      "id": 1757296595180,
+      "email": "sam@gmail.com",
+      "password": "sam123",
+      "tenants": [
+        {
+          "id": 1757296681833,
+          "tenantId": "https://samantha.sharepoint.com"
+        }
+      ],
+      "client_credentials": [
+        {
+          "id": 1757296631956,
+          "clientId": "123",
+          "clientSecret": "11"
+        },
+        {
+          "id": 1757296692221,
+          "clientId": "11",
+          "clientSecret": "343"
+        },
+        {
+          "id": 1757296803566,
+          "clientId": "1",
+          "clientSecret": "1"
+        },
+        {
+          "id": 1757296830945,
+          "clientId": "1",
+          "clientSecret": "1d"
+        },
+        {
+          "id": 1757296873499,
+          "clientId": "2",
+          "clientSecret": "3"
+        },
+        {
+          "id": 1757296920713,
+          "clientId": "3r43",
+          "clientSecret": "34325"
+        },
+        {
+          "id": 1757296984103,
+          "clientId": "dsd",
+          "clientSecret": "ws"
+        },
+        {
+          "id": 1757297214535,
+          "clientId": "d",
+          "clientSecret": "f"
+        },
+        {
+          "id": 1757297246820,
+          "clientId": "grtg",
+          "clientSecret": "sefes"
+        },
+        {
+          "id": 1757297269097,
+          "clientId": "fwffw",
+          "clientSecret": "dssd"
+        },
+        {
+          "id": 1757297294264,
+          "clientId": "fwwef",
+          "clientSecret": "sdcsd"
+        },
+        {
+          "id": 1757297340277,
+          "clientId": "ww",
+          "clientSecret": "svd"
+        },
+        {
+          "id": 1757297492815,
+          "clientId": "3232",
+          "clientSecret": "da"
+        },
+        {
+          "id": 1757297527744,
+          "clientId": "fdf",
+          "clientSecret": "wefew"
+        },
+        {
+          "id": 1757297559637,
+          "clientId": "dssd",
+          "clientSecret": "sdfs"
+        },
+        {
+          "id": 1757297760845,
+          "clientId": "fss",
+          "clientSecret": "fg"
+        },
+        {
+          "id": 1757297783483,
+          "clientId": "wrw",
+          "clientSecret": "fwe"
+        },
+        {
+          "id": 1757297805051,
+          "clientId": "afsw",
+          "clientSecret": "fs"
+        },
+        {
+          "id": 1757297838449,
+          "clientId": "ewrew",
+          "clientSecret": "efsf"
+        },
+        {
+          "id": 1757297864186,
+          "clientId": "erew",
+          "clientSecret": "sdfs"
+        },
+        {
+          "id": 1757297883277,
+          "clientId": "efesdf",
+          "clientSecret": "sdfef"
+        },
+        {
+          "id": 1757298295004,
+          "clientId": "wefw",
+          "clientSecret": "sd"
+        },
+        {
+          "id": 1757298319748,
+          "clientId": "23",
+          "clientSecret": "343"
+        },
+        {
+          "id": 1757298341275,
+          "clientId": "etgtrgerge",
+          "clientSecret": "ffdf"
+        },
+        {
+          "id": 1757298360784,
+          "clientId": "rgb",
+          "clientSecret": "dfdf"
+        },
+        {
+          "id": 1757298385485,
+          "clientId": "erref",
+          "clientSecret": "sdfs"
+        },
+        {
+          "id": 1757298405896,
+          "clientId": "rtgd",
+          "clientSecret": "sefga"
+        },
+        {
+          "id": 1757298603654,
+          "clientId": "efef",
+          "clientSecret": "wffwef"
+        },
+        {
+          "id": 1757298624500,
+          "clientId": "dfvdfv",
+          "clientSecret": "fsdefed"
+        },
+        {
+          "id": 1757299500095,
+          "clientId": "sdsfdds",
+          "clientSecret": "sfvs"
+        }
+      ],
+      "feedback": [],
+      "on_prem_credentials": [],
+      "assessments": [
+        {
+          "id": 1757299502710,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 08:15:02",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757299508217,
+          "type": "Exchange online",
+          "reportName": "Exchange Org Structure",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757299508218,
+          "type": "Exchange online",
+          "reportName": "M365 Groups",
+          "status": "Selected",
+          "date": "2025-09-08"
+        }
+      ]
+    },
+    {
+      "id": 1757309259468,
+      "email": "sanjay@gmail.com",
+      "password": "sanjay123",
+      "tenants": [
+        {
+          "id": 1757309308842,
+          "tenantId": "https://sanjay.sharepoint.com"
+        }
+      ],
+      "client_credentials": [
+        {
+          "id": 1757309331142,
+          "clientId": "12345",
+          "clientSecret": "2345"
+        },
+        {
+          "id": 1757309410691,
+          "clientId": "1234",
+          "clientSecret": "t445"
+        },
+        {
+          "id": 1757309847748,
+          "clientId": "1234",
+          "clientSecret": "fredfed"
+        },
+        {
+          "id": 1757310038785,
+          "clientId": "rgrege",
+          "clientSecret": "fsds"
+        },
+        {
+          "id": 1757310858187,
+          "clientId": "123",
+          "clientSecret": "tgdf"
+        },
+        {
+          "id": 1757312339661,
+          "clientId": "11",
+          "clientSecret": "ewrfewfd"
+        }
+      ],
+      "feedback": [
+        {
+          "id": 1757310575612,
+          "feedback": "nice"
+        }
+      ],
+      "on_prem_credentials": [],
+      "assessments": [
+        {
+          "id": 1757309354436,
+          "type": "Exchange online",
+          "reportName": "Exchange Org Structure",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354438,
+          "type": "Exchange online",
+          "reportName": "M365 Groups",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354438,
+          "type": "Exchange online",
+          "reportName": "Journaling Rules",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354440,
+          "type": "Exchange online",
+          "reportName": "SPF, DKIM, DMARC",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354440,
+          "type": "Exchange online",
+          "reportName": "No. of Users",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354441,
+          "type": "Exchange online",
+          "reportName": "Total mailbox count",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354442,
+          "type": "Exchange online",
+          "reportName": "Type of mailboxes",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354443,
+          "type": "Exchange online",
+          "reportName": "Public folder details",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354444,
+          "type": "Exchange online",
+          "reportName": "Public folder mailboxes",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354444,
+          "type": "Exchange online",
+          "reportName": "Mailbox permissions",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354445,
+          "type": "Exchange online",
+          "reportName": "Mailbox delegation",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354446,
+          "type": "Exchange online",
+          "reportName": "Litigation / Compliance hold",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354447,
+          "type": "Exchange online",
+          "reportName": "Mailbox size",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354448,
+          "type": "Exchange online",
+          "reportName": "Archive mailbox usage",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354449,
+          "type": "Exchange online",
+          "reportName": "Distribution Groups and membership",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354450,
+          "type": "Exchange online",
+          "reportName": "Mail Enabled Security group",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354451,
+          "type": "Exchange online",
+          "reportName": "Email delivery restrictions for groups and mailboxes",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354451,
+          "type": "Exchange online",
+          "reportName": "Group delegations",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354452,
+          "type": "Exchange online",
+          "reportName": "Group moderation settings",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354452,
+          "type": "Exchange online",
+          "reportName": "Mail Contacts",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354453,
+          "type": "Exchange online",
+          "reportName": "Meeting room list",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354454,
+          "type": "Exchange online",
+          "reportName": "Meeting room configurations",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354454,
+          "type": "Exchange online",
+          "reportName": "Resource mailbox booking / calendar processing configuration",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354455,
+          "type": "Exchange online",
+          "reportName": "SMTP addresses",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354455,
+          "type": "Exchange online",
+          "reportName": "Email Forwarding (internal/external)",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354456,
+          "type": "Exchange online",
+          "reportName": "Mailbox Auto reply",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354457,
+          "type": "Exchange online",
+          "reportName": "Mail tips assigned to mailboxes",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354457,
+          "type": "Exchange online",
+          "reportName": "Mailboxes hidden from GAL",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354458,
+          "type": "Exchange online",
+          "reportName": "Mailbox rules",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309354459,
+          "type": "Exchange online",
+          "reportName": "Transport rules",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309412286,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 11:00:12",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757309852911,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 11:07:32",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757310073716,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 11:11:13",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757408592507,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 09/09/2025, 14:33:12",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757408596287,
+          "type": "Exchange online",
+          "reportName": "M365 Groups",
+          "status": "Completed",
+          "date": "2025-09-09T09:03:19.316Z",
+          "output": "Report output for M365 Groups (Job ID: 1757408596287)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        }
+      ],
+      "reportJobs": [
+        {
+          "jobId": "1757408596287",
+          "assessmentType": "Exchange online",
+          "reportName": "M365 Groups",
+          "status": "Completed",
+          "date": "2025-09-09T09:03:16.289Z",
+          "output": "Report output for M365 Groups (Job ID: 1757408596287)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        }
+      ]
+    },
+    {
+      "id": 1757313123950,
+      "email": "ravi@gmail.com",
+      "password": "ravi123",
+      "tenants": [],
+      "client_credentials": [],
+      "feedback": [],
+      "on_prem_credentials": [],
+      "assessments": []
+    },
+    {
+      "id": 1757313604465,
+      "email": "sai@gmail.com",
+      "password": "sai123",
+      "tenants": [
+        {
+          "id": 1757324553781,
+          "hasAppId": true,
+          "clientId": "1234",
+          "clientSecret": "1234",
+          "certificateThumbprint": "fvdsvsd",
+          "gaAccount": "fsdsz",
+          "gaPassword": "czcdc",
+          "tenantId": "czcd",
+          "tenantUrl": "fsfsf",
+          "azureFileStorage": "dfssasaa",
+          "storageAccountKey": "fsswq",
+          "storageAccountCredential": "sfscs"
+        }
+      ],
+      "client_credentials": [
+        {
+          "id": 1757317498463,
+          "clientId": "fcsdzcs",
+          "clientSecret": "dsdcsacd"
+        },
+        {
+          "id": 1757317612221,
+          "clientId": "dcscds",
+          "clientSecret": "axz"
+        },
+        {
+          "id": 1757317688784,
+          "clientId": "fcsdzc",
+          "clientSecret": "casc"
+        }
+      ],
+      "feedback": [],
+      "on_prem_credentials": [],
+      "assessments": [
+        {
+          "id": 1757317788374,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 08/09/2025, 13:19:48",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757317929351,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 13:22:09",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757318053313,
+          "type": "Exchange online",
+          "reportName": "SMTP addresses",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757319294071,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 13:44:54",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757319302052,
+          "type": "Exchange online",
+          "reportName": "M365 Groups",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757319302052,
+          "type": "Exchange online",
+          "reportName": "Exchange Org Structure",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757320423344,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 14:03:43",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757320431400,
+          "type": "Exchange online",
+          "reportName": "SPF, DKIM, DMARC",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757320431400,
+          "type": "Exchange online",
+          "reportName": "No. of Users",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757320454014,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 14:04:14",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757320465948,
+          "type": "Share Point online",
+          "reportName": "Site collections Ownership Report",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757320705527,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 14:08:25",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757320710242,
+          "type": "Exchange online",
+          "reportName": "Transport rules",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757320821713,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 14:10:21",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757321143213,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 14:15:43",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757321865977,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 08/09/2025, 14:27:45",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757321870082,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 14:27:50",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757321874248,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 14:27:54",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757321877210,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 14:27:57",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757321880113,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 14:28:00",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757321883260,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 14:28:03",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757321887026,
+          "type": "Cloud file shares",
+          "reportName": "Cloud file shares Assessment - 08/09/2025, 14:28:07",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322218754,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 14:33:38",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322223263,
+          "type": "Share Point online",
+          "reportName": "Site Collections Usage Report",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322223264,
+          "type": "Share Point online",
+          "reportName": "Checked out documents report",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322246024,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 14:34:06",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322253526,
+          "type": "Share Point online",
+          "reportName": "Lists with workflows",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322530092,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 14:38:50",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322644388,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 14:40:44",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322648609,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams users List",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322648611,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams Enterprise Voice users List",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322778090,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 14:42:58",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757322780892,
+          "type": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757323187219,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 14:49:47",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757323191469,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Unassigned Numbers",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757323191471,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "List of Teams",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324569643,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 15:12:49",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577493,
+          "type": "Exchange online",
+          "reportName": "Journaling Rules",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577494,
+          "type": "Exchange online",
+          "reportName": "Total mailbox count",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577494,
+          "type": "Exchange online",
+          "reportName": "Type of mailboxes",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577494,
+          "type": "Exchange online",
+          "reportName": "Public folder details",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577494,
+          "type": "Exchange online",
+          "reportName": "Public folder mailboxes",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577495,
+          "type": "Exchange online",
+          "reportName": "Mailbox permissions",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577495,
+          "type": "Exchange online",
+          "reportName": "Mailbox delegation",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577496,
+          "type": "Exchange online",
+          "reportName": "Litigation / Compliance hold",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577496,
+          "type": "Exchange online",
+          "reportName": "Mailbox size",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577496,
+          "type": "Exchange online",
+          "reportName": "Archive mailbox usage",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577497,
+          "type": "Exchange online",
+          "reportName": "Distribution Groups and membership",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577498,
+          "type": "Exchange online",
+          "reportName": "Mail Enabled Security group",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577498,
+          "type": "Exchange online",
+          "reportName": "Email delivery restrictions for groups and mailboxes",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577498,
+          "type": "Exchange online",
+          "reportName": "Group delegations",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577499,
+          "type": "Exchange online",
+          "reportName": "Group moderation settings",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577499,
+          "type": "Exchange online",
+          "reportName": "Mail Contacts",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577499,
+          "type": "Exchange online",
+          "reportName": "Meeting room list",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577500,
+          "type": "Exchange online",
+          "reportName": "Meeting room configurations",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577500,
+          "type": "Exchange online",
+          "reportName": "Resource mailbox booking / calendar processing configuration",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577500,
+          "type": "Exchange online",
+          "reportName": "Email Forwarding (internal/external)",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577500,
+          "type": "Exchange online",
+          "reportName": "Mailbox Auto reply",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577501,
+          "type": "Exchange online",
+          "reportName": "Mail tips assigned to mailboxes",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577501,
+          "type": "Exchange online",
+          "reportName": "Mailboxes hidden from GAL",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324577502,
+          "type": "Exchange online",
+          "reportName": "Mailbox rules",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324699581,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:14:59",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324703583,
+          "type": "Share Point online",
+          "reportName": "Custom Features Report",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324703583,
+          "type": "Share Point online",
+          "reportName": "Custom Event Receiver Information Report",
+          "status": "Selected",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324843038,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:17:23",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324850267,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 15:17:30",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324855665,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 15:17:35",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757324868059,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:17:48",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325005786,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:20:05",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325079898,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:21:19",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325287643,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 08/09/2025, 15:24:47",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325292722,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 15:24:52",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325297152,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:24:57",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325300955,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 15:25:00",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325304654,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 15:25:04",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325308099,
+          "type": "Cloud file shares",
+          "reportName": "Cloud file shares Assessment - 08/09/2025, 15:25:08",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325311896,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:25:11",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325316482,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 15:25:16",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325349424,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:25:49",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325364726,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 15:26:04",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325379769,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 15:26:19",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325393711,
+          "type": "Cloud file shares",
+          "reportName": "Cloud file shares Assessment - 08/09/2025, 15:26:33",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325699781,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:31:39",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325704142,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 08/09/2025, 15:31:44",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325708076,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:31:48",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325712272,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 15:31:52",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325716606,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 15:31:56",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325724501,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 15:32:04",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325729163,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 15:32:09",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325921543,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 08/09/2025, 15:35:21",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325926480,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 15:35:26",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325928849,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:35:28",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325931515,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 15:35:31",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325934061,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 15:35:34",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325936194,
+          "type": "Cloud file shares",
+          "reportName": "Cloud file shares Assessment - 08/09/2025, 15:35:36",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325939461,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:35:39",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325944281,
+          "type": "Share Point online",
+          "reportName": "WSP/App Catalog report",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325944282,
+          "type": "Share Point online",
+          "reportName": "Sharepoint Site User/Group high level Permission report",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325960382,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:36:00",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325965281,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 15:36:05",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325970125,
+          "type": "OneDrive for Business",
+          "reportName": "Unlicensed Onedrive user report",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757325970126,
+          "type": "OneDrive for Business",
+          "reportName": "Onedrive Configuration report",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        }
+      ]
+    },
+    {
+      "id": 1757326018581,
+      "email": "avinash@gmail.com",
+      "password": "avi123",
+      "tenants": [
+        {
+          "id": 1757326185158,
+          "hasAppId": true,
+          "clientId": "1",
+          "clientSecret": "11",
+          "certificateThumbprint": "11",
+          "gaAccount": "csc",
+          "gaPassword": "sdcd",
+          "tenantId": "csdzcs",
+          "tenantUrl": "cszc",
+          "azureFileStorage": "cdxzc",
+          "storageAccountKey": "scdxc",
+          "storageAccountCredential": "sdcsa"
+        }
+      ],
+      "client_credentials": [],
+      "feedback": [],
+      "on_prem_credentials": [],
+      "assessments": [
+        {
+          "id": 1757326190719,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 08/09/2025, 15:39:50",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757326200655,
+          "type": "Identity online (Entra)",
+          "reportName": "Security Groups Report",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757326585648,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 15:46:25",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757326591974,
+          "type": "Exchange online",
+          "reportName": "Exchange Org Structure",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757326591976,
+          "type": "Exchange online",
+          "reportName": "M365 Groups",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757326591978,
+          "type": "Exchange online",
+          "reportName": "SPF, DKIM, DMARC",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757326933726,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 15:52:13",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757326942772,
+          "type": "Share Point online",
+          "reportName": "Site Collections Usage Report",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757331596551,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 17:09:56",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757332019283,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 17:16:59",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757334150847,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 17:52:30",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757334155900,
+          "type": "Share Point online",
+          "reportName": "Site collections Ownership Report",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757334216601,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 17:53:36",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757334219790,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 17:53:39",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757335297346,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 18:11:37",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757335327760,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 18:12:07",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757335602207,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 18:16:42",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757336325697,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 18:28:45",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757336328500,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 18:28:48",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757336416096,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 18:30:16",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757336565342,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 18:32:45",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757339107965,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 19:15:07",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757339112749,
+          "type": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "Completed",
+          "date": "2025-09-08T13:45:48.084Z",
+          "output": "Report output for Detailed Onedrive Usage report (Job ID: 1757339112749)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757339211200,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 19:16:51",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757339304555,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 19:18:24",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757339308755,
+          "type": "OneDrive for Business",
+          "reportName": "Unlicensed Onedrive user report",
+          "status": "Completed",
+          "date": "2025-09-08T13:48:33.448Z",
+          "output": "Report output for Unlicensed Onedrive user report (Job ID: 1757339308755)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757339444516,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 19:20:44",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757339475150,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 19:21:15",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757341953658,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 20:02:33",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757342448665,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 20:10:48",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757342476773,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 20:11:16",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757342480888,
+          "type": "OneDrive for Business",
+          "reportName": "Unlicensed Onedrive user report",
+          "status": "Failed",
+          "date": "2025-09-08T14:41:25.249Z",
+          "output": "Error: Report execution failed for Unlicensed Onedrive user report (Job ID: 1757342480888)"
+        },
+        {
+          "id": 1757343081342,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 20:21:21",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757343175108,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 20:22:55",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757343399118,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 20:26:39",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757343733552,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 20:32:13",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757344096633,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 20:38:16",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757344294682,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 20:41:34",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757344488835,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 20:44:48",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757344510029,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 20:45:10",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757383044683,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 09/09/2025, 07:27:24",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757383452800,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 09/09/2025, 07:34:12",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757383656323,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 09/09/2025, 07:37:36",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757383659571,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 09/09/2025, 07:37:39",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757384371453,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 09/09/2025, 07:49:31",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757384720248,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 09/09/2025, 07:55:20",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757385105989,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 09/09/2025, 08:01:45",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757385406511,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 09/09/2025, 08:06:46",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757385567182,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 09/09/2025, 08:09:27",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757385571105,
+          "type": "Exchange online",
+          "reportName": "No. of Users",
+          "status": "Completed",
+          "date": "2025-09-09T02:39:34.135Z",
+          "output": "Report output for No. of Users (Job ID: 1757385571105)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757385860615,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 09/09/2025, 08:14:20",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757385864030,
+          "type": "Share Point online",
+          "reportName": "Site collections Ownership Report",
+          "status": "Completed",
+          "date": "2025-09-09T02:44:27.062Z",
+          "output": "Report output for Site collections Ownership Report (Job ID: 1757385864030)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757385901266,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 08:15:01",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757385923841,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 09/09/2025, 08:15:23",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757385926935,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams users List",
+          "status": "Completed",
+          "date": "2025-09-09T02:45:29.954Z",
+          "output": "Report output for Teams users List (Job ID: 1757385926935)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757385946063,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 09/09/2025, 08:15:46",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757385950360,
+          "type": "Identity online (Entra)",
+          "reportName": "Users Report",
+          "status": "Completed",
+          "date": "2025-09-09T02:45:53.397Z",
+          "output": "Report output for Users Report (Job ID: 1757385950360)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757385950369,
+          "type": "Identity online (Entra)",
+          "reportName": "Security Groups Report",
+          "status": "Completed",
+          "date": "2025-09-09T02:45:53.409Z",
+          "output": "Report output for Security Groups Report (Job ID: 1757385950369)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757385971200,
+          "type": "Cloud file shares",
+          "reportName": "Cloud file shares Assessment - 09/09/2025, 08:16:11",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757385974496,
+          "type": "Cloud file shares",
+          "reportName": "File Share Permissions Report",
+          "status": "Completed",
+          "date": "2025-09-09T02:46:17.530Z",
+          "output": "Report output for File Share Permissions Report (Job ID: 1757385974496)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757404788866,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 13:29:48",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757404791617,
+          "type": "OneDrive for Business",
+          "reportName": "Onedrive Configuration report",
+          "status": "Completed",
+          "date": "2025-09-09T07:59:54.657Z",
+          "output": "Report output for Onedrive Configuration report (Job ID: 1757404791617)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        }
+      ],
+      "reportJobs": [
+        {
+          "jobId": "1757331599402",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "Completed",
+          "date": "2025-09-08T11:39:59.403Z",
+          "output": "Report output for Detailed Onedrive Usage report (Job ID: 1757331599402)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757332021984",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "Completed",
+          "date": "2025-09-08T11:47:01.985Z",
+          "output": "Report output for Detailed Onedrive Usage report (Job ID: 1757332021984)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757334224327",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "Completed",
+          "date": "2025-09-08T12:23:44.329Z",
+          "output": "Report output for Detailed Onedrive Usage report (Job ID: 1757334224327)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757335606607",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "In Progress",
+          "date": "2025-09-08T12:46:46.610Z",
+          "output": null
+        },
+        {
+          "jobId": "1757336331282",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "In Progress",
+          "date": "2025-09-08T12:58:51.283Z",
+          "output": null
+        },
+        {
+          "jobId": "1757336569415",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "In Progress",
+          "date": "2025-09-08T13:02:49.416Z",
+          "output": null
+        },
+        {
+          "jobId": "1757339112749",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "Completed",
+          "date": "2025-09-08T13:45:12.750Z",
+          "output": "Report output for Detailed Onedrive Usage report (Job ID: 1757339112749)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757339308755",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Unlicensed Onedrive user report",
+          "status": "Completed",
+          "date": "2025-09-08T13:48:28.756Z",
+          "output": "Report output for Unlicensed Onedrive user report (Job ID: 1757339308755)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757342480888",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Unlicensed Onedrive user report",
+          "status": "Failed",
+          "date": "2025-09-08T14:41:20.890Z",
+          "output": "Error: Report execution failed for Unlicensed Onedrive user report (Job ID: 1757342480888)"
+        },
+        {
+          "jobId": "1757344298205",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Onedrive Configuration report",
+          "status": "In Progress",
+          "date": "2025-09-08T15:11:38.207Z",
+          "output": null
+        },
+        {
+          "jobId": "1757344492445",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Unlicensed Onedrive user report",
+          "status": "In Progress",
+          "date": "2025-09-08T15:14:52.448Z",
+          "output": null
+        },
+        {
+          "jobId": "1757385571105",
+          "assessmentType": "Exchange online",
+          "reportName": "No. of Users",
+          "status": "Completed",
+          "date": "2025-09-09T02:39:31.106Z",
+          "output": "Report output for No. of Users (Job ID: 1757385571105)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757385864030",
+          "assessmentType": "Share Point online",
+          "reportName": "Site collections Ownership Report",
+          "status": "Completed",
+          "date": "2025-09-09T02:44:24.032Z",
+          "output": "Report output for Site collections Ownership Report (Job ID: 1757385864030)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757385903745",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Unlicensed Onedrive user report",
+          "status": "In Progress",
+          "date": "2025-09-09T02:45:03.746Z",
+          "output": null
+        },
+        {
+          "jobId": "1757385926935",
+          "assessmentType": "Teams & Enterprise Voice",
+          "reportName": "Teams users List",
+          "status": "Completed",
+          "date": "2025-09-09T02:45:26.935Z",
+          "output": "Report output for Teams users List (Job ID: 1757385926935)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757385950360",
+          "assessmentType": "Identity online (Entra)",
+          "reportName": "Users Report",
+          "status": "Completed",
+          "date": "2025-09-09T02:45:50.361Z",
+          "output": "Report output for Users Report (Job ID: 1757385950360)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757385950369",
+          "assessmentType": "Identity online (Entra)",
+          "reportName": "Security Groups Report",
+          "status": "Completed",
+          "date": "2025-09-09T02:45:50.371Z",
+          "output": "Report output for Security Groups Report (Job ID: 1757385950369)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757385974496",
+          "assessmentType": "Cloud file shares",
+          "reportName": "File Share Permissions Report",
+          "status": "Completed",
+          "date": "2025-09-09T02:46:14.497Z",
+          "output": "Report output for File Share Permissions Report (Job ID: 1757385974496)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757404791617",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Onedrive Configuration report",
+          "status": "Completed",
+          "date": "2025-09-09T07:59:51.619Z",
+          "output": "Report output for Onedrive Configuration report (Job ID: 1757404791617)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        }
+      ]
+    },
+    {
+      "id": 1757327764318,
+      "email": "vamsi@gmail.com",
+      "password": "vamsi123",
+      "tenants": [
+        {
+          "id": 1757327842175,
+          "hasAppId": true,
+          "clientId": "dad",
+          "clientSecret": "fafd",
+          "certificateThumbprint": "fsa",
+          "gaAccount": "feasf",
+          "gaPassword": "fsaaas",
+          "tenantId": "fsaas",
+          "tenantUrl": "dsaa",
+          "azureFileStorage": "dwsa",
+          "storageAccountKey": "dasdsa",
+          "storageAccountCredential": "dfsef"
+        }
+      ],
+      "client_credentials": [],
+      "feedback": [],
+      "on_prem_credentials": [],
+      "assessments": [
+        {
+          "id": 1757327848810,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 08/09/2025, 16:07:28",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757327858376,
+          "type": "Exchange online",
+          "reportName": "Exchange Org Structure",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757327858376,
+          "type": "Exchange online",
+          "reportName": "M365 Groups",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757330880069,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 16:58:00",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        }
+      ]
+    },
+    {
+      "id": 1757344846340,
+      "email": "bhai@gmail.com",
+      "password": "bhai123",
+      "tenants": [
+        {
+          "id": 1757344882413,
+          "hasAppId": true,
+          "clientId": "fsdfcds",
+          "clientSecret": "vsdvds",
+          "certificateThumbprint": "scdscds",
+          "gaAccount": "fcdsfcd",
+          "gaPassword": "dxc",
+          "tenantId": "scsdcs",
+          "tenantUrl": "vscsx",
+          "azureFileStorage": "sxszc",
+          "storageAccountKey": "scdd",
+          "storageAccountCredential": "xzxz"
+        }
+      ],
+      "client_credentials": [],
+      "feedback": [],
+      "on_prem_credentials": [],
+      "assessments": [
+        {
+          "id": 1757344890046,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 20:51:30",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757344921869,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 20:52:01",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757344944298,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 08/09/2025, 20:52:24",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757344978795,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 08/09/2025, 20:52:58",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757344997152,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 08/09/2025, 20:53:17",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        },
+        {
+          "id": 1757345014834,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 08/09/2025, 20:53:34",
+          "status": "Initiated",
+          "date": "2025-09-08"
+        }
+      ],
+      "reportJobs": [
+        {
+          "jobId": "1757344924458",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "In Progress",
+          "date": "2025-09-08T15:22:04.460Z",
+          "output": null
+        },
+        {
+          "jobId": "1757344999779",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Onedrive Configuration report",
+          "status": "In Progress",
+          "date": "2025-09-08T15:23:19.781Z",
+          "output": null
+        }
+      ]
+    },
+    {
+      "id": 1757386081301,
+      "email": "abhi@gmail.com",
+      "password": "abhi123",
+      "tenants": [
+        {
+          "id": 1757386120465,
+          "hasAppId": true,
+          "clientId": "fsdcf",
+          "clientSecret": "cdsca",
+          "certificateThumbprint": "csfds",
+          "gaAccount": "dcfdsf",
+          "gaPassword": "sdfdsa",
+          "tenantId": "feasfc",
+          "tenantUrl": "dasdadas",
+          "azureFileStorage": "sadsad",
+          "storageAccountKey": "sdad",
+          "storageAccountCredential": "adadca"
+        }
+      ],
+      "client_credentials": [],
+      "feedback": [],
+      "on_prem_credentials": [],
+      "assessments": [
+        {
+          "id": 1757386127262,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 08:18:47",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757386145858,
+          "type": "Exchange online",
+          "reportName": "Exchange online Assessment - 09/09/2025, 08:19:05",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757386150869,
+          "type": "Exchange online",
+          "reportName": "M365 Groups",
+          "status": "Completed",
+          "date": "2025-09-09T02:49:13.902Z",
+          "output": "Report output for M365 Groups (Job ID: 1757386150869)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757386788692,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 08:29:48",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757386791627,
+          "type": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "Completed",
+          "date": "2025-09-09T02:59:54.657Z",
+          "output": "Report output for Detailed Onedrive Usage report (Job ID: 1757386791627)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757386806403,
+          "type": "Identity online (Entra)",
+          "reportName": "Identity online (Entra) Assessment - 09/09/2025, 08:30:06",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757386809452,
+          "type": "Identity online (Entra)",
+          "reportName": "Users Report",
+          "status": "Completed",
+          "date": "2025-09-09T03:00:12.474Z",
+          "output": "Report output for Users Report (Job ID: 1757386809452)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757386823680,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 09/09/2025, 08:30:23",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757386827242,
+          "type": "Share Point online",
+          "reportName": "Site Collections Usage Report",
+          "status": "Completed",
+          "date": "2025-09-09T03:00:30.269Z",
+          "output": "Report output for Site Collections Usage Report (Job ID: 1757386827242)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757386840004,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams & Enterprise Voice Assessment - 09/09/2025, 08:30:40",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757386844302,
+          "type": "Teams & Enterprise Voice",
+          "reportName": "Teams users List",
+          "status": "Completed",
+          "date": "2025-09-09T03:00:47.328Z",
+          "output": "Report output for Teams users List (Job ID: 1757386844302)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757386861129,
+          "type": "Cloud file shares",
+          "reportName": "Cloud file shares Assessment - 09/09/2025, 08:31:01",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757386863758,
+          "type": "Cloud file shares",
+          "reportName": "File Share Permissions Report",
+          "status": "Completed",
+          "date": "2025-09-09T03:01:06.781Z",
+          "output": "Report output for File Share Permissions Report (Job ID: 1757386863758)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757396338968,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 11:08:58",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757396342357,
+          "type": "OneDrive for Business",
+          "reportName": "Unlicensed Onedrive user report",
+          "status": "Completed",
+          "date": "2025-09-09T05:39:05.396Z",
+          "output": "Report output for Unlicensed Onedrive user report (Job ID: 1757396342357)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757396403414,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 09/09/2025, 11:10:03",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757396406927,
+          "type": "Share Point online",
+          "reportName": "WSP/App Catalog report",
+          "status": "Completed",
+          "date": "2025-09-09T05:40:09.940Z",
+          "output": "Report output for WSP/App Catalog report (Job ID: 1757396406927)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757429225285,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 20:17:05",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757429717312,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 20:25:17",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757429870114,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 20:27:50",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757430141123,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 20:32:21",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757430344539,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 20:35:44",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757433020792,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 21:20:20",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757433277464,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 21:24:37",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757433502558,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 21:28:22",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757433926302,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 21:35:26",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757434716057,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 21:48:36",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757434980257,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 21:53:00",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757435354333,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 21:59:14",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757435647147,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 22:04:07",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757437296239,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 22:31:36",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757472278730,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 10/09/2025, 08:14:38",
+          "status": "Initiated",
+          "date": "2025-09-10"
+        },
+        {
+          "id": 1757472450658,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 10/09/2025, 08:17:30",
+          "status": "Initiated",
+          "date": "2025-09-10"
+        },
+        {
+          "id": 1757472927252,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 10/09/2025, 08:25:27",
+          "status": "Initiated",
+          "date": "2025-09-10"
+        },
+        {
+          "id": 1757483205145,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 10/09/2025, 11:16:45",
+          "status": "Initiated",
+          "date": "2025-09-10"
+        },
+        {
+          "id": 1757656649256,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 12/09/2025, 11:27:29",
+          "status": "Initiated",
+          "date": "2025-09-12"
+        }
+      ],
+      "reportJobs": [
+        {
+          "jobId": "1757386130075",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "In Progress",
+          "date": "2025-09-09T02:48:50.075Z",
+          "output": null
+        },
+        {
+          "jobId": "1757386150869",
+          "assessmentType": "Exchange online",
+          "reportName": "M365 Groups",
+          "status": "Completed",
+          "date": "2025-09-09T02:49:10.870Z",
+          "output": "Report output for M365 Groups (Job ID: 1757386150869)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757386791627",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "Completed",
+          "date": "2025-09-09T02:59:51.628Z",
+          "output": "Report output for Detailed Onedrive Usage report (Job ID: 1757386791627)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757386809452",
+          "assessmentType": "Identity online (Entra)",
+          "reportName": "Users Report",
+          "status": "Completed",
+          "date": "2025-09-09T03:00:09.453Z",
+          "output": "Report output for Users Report (Job ID: 1757386809452)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757386827242",
+          "assessmentType": "Share Point online",
+          "reportName": "Site Collections Usage Report",
+          "status": "Completed",
+          "date": "2025-09-09T03:00:27.243Z",
+          "output": "Report output for Site Collections Usage Report (Job ID: 1757386827242)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757386844302",
+          "assessmentType": "Teams & Enterprise Voice",
+          "reportName": "Teams users List",
+          "status": "Completed",
+          "date": "2025-09-09T03:00:44.303Z",
+          "output": "Report output for Teams users List (Job ID: 1757386844302)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757386863758",
+          "assessmentType": "Cloud file shares",
+          "reportName": "File Share Permissions Report",
+          "status": "Completed",
+          "date": "2025-09-09T03:01:03.758Z",
+          "output": "Report output for File Share Permissions Report (Job ID: 1757386863758)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757396342357",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Unlicensed Onedrive user report",
+          "status": "Completed",
+          "date": "2025-09-09T05:39:02.357Z",
+          "output": "Report output for Unlicensed Onedrive user report (Job ID: 1757396342357)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757396406927",
+          "assessmentType": "Share Point online",
+          "reportName": "WSP/App Catalog report",
+          "status": "Completed",
+          "date": "2025-09-09T05:40:06.927Z",
+          "output": "Report output for WSP/App Catalog report (Job ID: 1757396406927)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        }
+      ]
+    },
+    {
+      "id": 1757413874409,
+      "email": "arun@gmail.com",
+      "password": "arun123",
+      "tenants": [
+        {
+          "id": 1757413961951,
+          "hasAppId": true,
+          "clientId": "dfgg",
+          "clientSecret": "sdbj",
+          "certificateThumbprint": "sfdofca",
+          "gaAccount": "fenow",
+          "gaPassword": "wefwe",
+          "tenantId": "fdsnb",
+          "tenantUrl": "sdfds",
+          "azureFileStorage": "fefsaf",
+          "storageAccountKey": "freg",
+          "storageAccountCredential": "ewrwe"
+        }
+      ],
+      "client_credentials": [],
+      "feedback": [],
+      "on_prem_credentials": [],
+      "assessments": [
+        {
+          "id": 1757414002907,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 16:03:22",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757414006184,
+          "type": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "Completed",
+          "date": "2025-09-09T10:33:29.225Z",
+          "output": "Report output for Detailed Onedrive Usage report (Job ID: 1757414006184)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757414941565,
+          "type": "Share Point online",
+          "reportName": "Share Point online Assessment - 09/09/2025, 16:19:01",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757414944941,
+          "type": "Share Point online",
+          "reportName": "Site Collections Usage Report",
+          "status": "Completed",
+          "date": "2025-09-09T10:49:07.983Z",
+          "output": "Report output for Site Collections Usage Report (Job ID: 1757414944941)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "id": 1757426949639,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 19:39:09",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        },
+        {
+          "id": 1757428955966,
+          "type": "OneDrive for Business",
+          "reportName": "OneDrive for Business Assessment - 09/09/2025, 20:12:35",
+          "status": "Initiated",
+          "date": "2025-09-09"
+        }
+      ],
+      "reportJobs": [
+        {
+          "jobId": "1757414006184",
+          "assessmentType": "OneDrive for Business",
+          "reportName": "Detailed Onedrive Usage report",
+          "status": "Completed",
+          "date": "2025-09-09T10:33:26.188Z",
+          "output": "Report output for Detailed Onedrive Usage report (Job ID: 1757414006184)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        },
+        {
+          "jobId": "1757414944941",
+          "assessmentType": "Share Point online",
+          "reportName": "Site Collections Usage Report",
+          "status": "Completed",
+          "date": "2025-09-09T10:49:04.944Z",
+          "output": "Report output for Site Collections Usage Report (Job ID: 1757414944941)\nLine 1: Data A\nLine 2: Data B\nLine 3: Data C\nLine 4: Data D\nLine 5: Data E\nLine 6: Data F\nLine 7: Data G\nLine 8: Data H\nLine 9: Data I\nLine 10: Data J"
+        }
+      ]
+    }
+  ],
+  "feedback": []
+}

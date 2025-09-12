@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ffffff; /* White background for the body */
+  height: 100%; /* Set html and body height to 100% */
+  overflow: auto; /* Allow scrolling */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.btn-primary {
+  background-color: #003366; /* Cognizant Blue */
+  border-color: #003366;
+  color: #ffffff; /* White text for buttons */
+}
+
+.btn-primary:hover {
+  background-color: #002244; /* Darker shade for hover */
+  border-color: #002244;
+}
+
+.card {
+  border-radius: 0.5rem;
+  background-color: #ffffff; /* White background for cards */
+  border: 1px solid #e0e0e0; /* Light border for cards */
+}
+
+.bg-cognizant-blue {
+  background-color: #003366 !important; /* Cognizant Blue for navbar */
+  color: #ffffff !important; /* White text for navbar */
+}
+
+.bg-cognizant-blue .nav-link {
+  color: #ffffff !important; /* Ensure nav links are white */
+}
+
+.bg-cognizant-blue .navbar-brand {
+  color: #ffffff !important; /* Ensure navbar brand is white */
+}
